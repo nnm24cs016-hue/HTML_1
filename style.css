@@ -1,0 +1,14 @@
+h1 {
+   color: blue;
+   background-color: lightblue;
+   text-align: center;
+   text-decoration: underline;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+   font-style: italic;
+}
+body{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
