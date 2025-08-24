@@ -1,23 +1,46 @@
 h1 {
-   color: blue;
-   background-color: lightblue;
+   color: rgb(96, 34, 5);
+   background-color: rgb(188, 243, 182);
    text-align: center;
    text-decoration: underline;
    text-transform: uppercase;
-   letter-spacing: 4px;
+   letter-spacing: 3px;
+   font-size: 40px;
+   
+   
+}
+h2 {
+   color: rgb(10, 10, 79);
+   text-align: left;
+   text-transform: uppercase;
+   letter-spacing: 3px;
    font-style: italic;
+   
+   
 }
 body{
     background-image: url(background.png);
-    background-repeat: no-repeat
     background-size: 100px 50px;;
     background-size: cover;
+    border: 5px solid black; 
+    margin: 20px; 
+    padding: 20px;
+    
 }
 img {
-    opacity : 0.3;
+    border-radius:50px ;
+    border-style: solde;
+    border-color: black;
+    max-width: 15%;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px; 
+    
+    
    }
 ul {
    list-style-position: inside;
-   text-align: center;
+   text-align: left;
    padding : 0;
+    color: rgb(10, 10, 79);
     }
