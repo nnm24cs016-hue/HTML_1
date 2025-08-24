@@ -6,7 +6,7 @@ h1 {
    text-transform: uppercase;
    letter-spacing: 3px;
    font-size: 40px;
-   
+   text-shadow: rgb(134, 67, 67) 2px 2px 5px;
    
 }
 h2 {
@@ -38,9 +38,3 @@ img {
     
     
    }
-ul {
-   list-style-position: inside;
-   text-align: left;
-   padding : 0;
-    color: rgb(10, 10, 79);
-    }
