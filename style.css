@@ -34,7 +34,10 @@ img {
     max-width: 15%;
     border: 5px solid black;
     margin: 20px;
-    padding: 20px; 
-    
-    
+    padding: 20px;   
    }
+ul {
+     color: rgb(10, 10, 79);
+   text-align: left;
+    font-style: italic;
+}
