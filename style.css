@@ -5,7 +5,7 @@ h1 {
    text-decoration: underline;
    text-transform: uppercase;
    letter-spacing: 3px;
-   font-size: 40px;
+   font-size: 60px;
    text-shadow: rgb(134, 67, 67) 2px 2px 5px;
     
 }
@@ -15,7 +15,7 @@ h2 {
    text-transform: uppercase;
    letter-spacing: 3px;
    font-style: italic;
-   
+   font-size: 40px;
    
 }
 body{
@@ -34,7 +34,7 @@ img {
     max-width: 15%;
     border: 5px solid black;
     margin: 20px;
-    padding: 20px;   
+    padding: 30px;   
    }
 ul {
      color: rgb(10, 10, 79);
